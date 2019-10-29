@@ -1,0 +1,141 @@
+body{
+  overflow-X:hidden ;
+  background: rgb(186, 186, 241);
+}
+.navbar{
+  background:rgb(107, 103, 103) !important;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+  color: white;
+}
+.navbar-brand{
+  color: white;
+ 
+}
+.row .list-group{
+  font-size: 25px;
+}
+.row .list-group {
+ font-size: 24px;
+ margin-top:20px ;
+  
+}
+.fa{
+  margin-right: 10px;
+}
+ 
+ 
+
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+color: black ;
+opacity: 0.9;  
+}
+.navbar-brand:hover{
+ color: black ;
+ opacity: 0.9; }  
+#russia{
+    width: 30px;
+    height: 20;
+}
+.btn-outline-success{
+    background: whitesmoke;
+    color: black;
+    border: 1px solid white;
+    border-top-left-radius:0px; 
+   border-bottom-left-radius:0px;
+   border-radius:10px;
+   margin: auto;
+   margin-left:10px!important ;
+}
+.list-group-item{
+  margin-top: 10px;
+}
+.form-control{
+   color: #000;
+   border: none;
+   border-top-right-radius:0; 
+   border-bottom-right-radius:0; 
+   margin-right: 0!important;
+}
+.form-control::placeholder{
+ color: #000;
+ 
+
+}
+.btn-outline-success:hover{
+background: rgb(94, 92, 92);
+ color:black;
+ border: rgb(94, 92, 92);
+}
+.menu{
+ margin-bottom: 30px;
+ 
+}
+#England{
+  width: 30px;
+  height: 20px;
+}
+.carousel img{
+  height: 1000px;
+  width: 800;
+}
+.row img{
+  height: 100px;
+  width: 250px;
+}
+.row img{
+  text-align: center;
+  margin-top: 30px;
+}
+.pag{
+  margin-top: 30px;
+  
+}
+.pag .pagination a {
+  background: rgb(251, 247, 247);
+  color: rgb(75, 75, 75);
+  font-size: 20px;
+  border: 1px solid rgb(68, 66, 66);
+}
+.pag .pagination {
+  justify-content: center;
+}
+.row img{
+margin: auto;
+}
+.footer{
+  background: grey;
+  color: antiquewhite;
+  text-align: center;
+}
+
+
+.footer a{
+  
+  color: antiquewhite;
+  font-size: 20px;
+ 
+  
+}
+.footer {
+  
+ color: #000;
+ font-size: 20px;
+ 
+  
+}
+.footer a:hover{
+    color: rgb(27, 27, 158);
+}
+.footer .fa {
+    margin-right: 8px;
+}
+.navbar-toggler {
+  border: 1px solid white}
+  .carousel img{
+    height: 400px;
+  } 
+ .card{
+    margin-top:30px;  
+  } 
+  
